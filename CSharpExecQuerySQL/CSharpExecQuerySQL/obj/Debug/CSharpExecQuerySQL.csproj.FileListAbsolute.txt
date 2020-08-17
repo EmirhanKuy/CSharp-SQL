@@ -1,0 +1,16 @@
+C:\Users\Nahrime\source\repos\CSharpExecQuerySQL\CSharpExecQuerySQL\bin\Debug\CSharpExecQuerySQL.exe.config
+C:\Users\Nahrime\source\repos\CSharpExecQuerySQL\CSharpExecQuerySQL\bin\Debug\CSharpExecQuerySQL.exe
+C:\Users\Nahrime\source\repos\CSharpExecQuerySQL\CSharpExecQuerySQL\bin\Debug\CSharpExecQuerySQL.pdb
+C:\Users\Nahrime\source\repos\CSharpExecQuerySQL\CSharpExecQuerySQL\obj\Debug\CSharpExecQuerySQL.csprojAssemblyReference.cache
+C:\Users\Nahrime\source\repos\CSharpExecQuerySQL\CSharpExecQuerySQL\obj\Debug\CSharpExecQuerySQL.Properties.Resources.resources
+C:\Users\Nahrime\source\repos\CSharpExecQuerySQL\CSharpExecQuerySQL\obj\Debug\CSharpExecQuerySQL.csproj.GenerateResource.cache
+C:\Users\Nahrime\source\repos\CSharpExecQuerySQL\CSharpExecQuerySQL\obj\Debug\CSharpExecQuerySQL.csproj.CoreCompileInputs.cache
+C:\Users\Nahrime\source\repos\CSharpExecQuerySQL\CSharpExecQuerySQL\obj\Debug\CSharpExecQuerySQL.exe
+C:\Users\Nahrime\source\repos\CSharpExecQuerySQL\CSharpExecQuerySQL\obj\Debug\CSharpExecQuerySQL.pdb
+C:\Users\Nahrime\source\repos\CSharpExecQuerySQL\CSharpExecQuerySQL\bin\Debug\Dapper.dll
+C:\Users\Nahrime\source\repos\CSharpExecQuerySQL\CSharpExecQuerySQL\bin\Debug\Dapper.xml
+C:\Users\Nahrime\source\repos\CSharpExecQuerySQL\CSharpExecQuerySQL\obj\Debug\CSharpExecQuerySQL.csproj.CopyComplete
+C:\Users\Nahrime\source\repos\CSharpExecQuerySQL\CSharpExecQuerySQL\obj\Debug\CSharpExecQuerySQL.Dashboard.resources
+C:\Users\Nahrime\source\repos\CSharpExecQuerySQL\CSharpExecQuerySQL\obj\Debug\CSharpExecQuerySQL.csproj.ResolveComReference.cache
+C:\Users\Nahrime\source\repos\CSharpExecQuerySQL\CSharpExecQuerySQL\obj\Debug\CSharpExecQuerySQL.LoginForm.resources
+C:\Users\Nahrime\source\repos\CSharpExecQuerySQL\CSharpExecQuerySQL\obj\Debug\Interop.MSXML2.dll
